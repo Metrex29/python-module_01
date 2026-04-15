@@ -143,7 +143,6 @@ def main() -> None:
     rose.show()
     print("[statistics for Rose]")
     display_plant_stats(rose)
-    
     print("[asking the rose to grow and bloom]")
     rose.grow()
     rose.bloom()
